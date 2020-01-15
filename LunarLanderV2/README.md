@@ -9,3 +9,5 @@ In addition, I have tried to export the weights of the agent after training to u
 file the agent performs as if it had not been trained before.
 
 More Info: https://gym.openai.com/envs/LunarLander-v2/
+
+The keyboard_agent.py file will allow you to interact/play the environment 
