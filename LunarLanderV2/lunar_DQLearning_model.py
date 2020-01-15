@@ -33,6 +33,3 @@ class Q_Model():
         return model
 
 
-
-
-        return model
