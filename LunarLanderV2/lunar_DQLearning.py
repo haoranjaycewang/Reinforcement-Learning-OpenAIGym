@@ -101,6 +101,7 @@ for e in range(episodes):
 env.close()
 datafile.close()
 
+# Plots Episode VS Score of the training session, can comment out if unwanted
 x, y = np.loadtxt(file_name, delimiter=',', unpack=True)
 plt.plot(x,y, label='Loaded from file!')
 plt.xlabel('Episodes')
