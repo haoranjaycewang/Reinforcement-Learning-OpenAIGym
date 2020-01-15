@@ -1,7 +1,10 @@
 Source Code for implementations using the LunarLanderV2 environment from OpenAI Gym. 
 
 Using Deep-Q Learning with experience replay, the agent can achieve multiple episodes with passing scores of over 200 in 
-about 60-70 episodes of training
+about 60-70 episodes of training. 
+
+NOTE: if you want to run these files on your own computer, you will have to edit the directory variables inside the files to match your 
+directories
 
 Improvements need to be done so that the agent can consistently obtain a passing score of at least 200 in 10 consecutive episodes.
 
